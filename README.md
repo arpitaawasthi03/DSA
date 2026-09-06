@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/arpitaawasthi03/DSA/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/arpitaawasthi03/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arpitaawasthi03/DSA/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/arpitaawasthi03/DSA/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/arpitaawasthi03/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Simulation
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arpitaawasthi03/DSA/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/arpitaawasthi03/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
