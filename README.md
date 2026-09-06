@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arpitaawasthi03/DSA/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/arpitaawasthi03/DSA/tree/master/0682-baseball-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/arpitaawasthi03/DSA/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/arpitaawasthi03/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
