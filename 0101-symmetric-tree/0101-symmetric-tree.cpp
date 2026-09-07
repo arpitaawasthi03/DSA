@@ -25,6 +25,11 @@ public:
         
     }
     bool isSymmetric(TreeNode* root) {
-        return isSameTree(invertTree(root->left),root->right);
+        // return isSameTree(invertTree(root->left),root->right);
+        invertTree(root->right);
+        bool ans = isSameTree(root->left,root->right);
+        invertTree(root->right);
+        return ans;
+
     }
 };
