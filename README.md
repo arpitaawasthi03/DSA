@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/arpitaawasthi03/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0682-baseball-game](https://github.com/arpitaawasthi03/DSA/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/arpitaawasthi03/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2073-time-needed-to-buy-tickets](https://github.com/arpitaawasthi03/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Stack
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/arpitaawasthi03/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/arpitaawasthi03/DSA/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/arpitaawasthi03/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/arpitaawasthi03/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/arpitaawasthi03/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/arpitaawasthi03/DSA/tree/master/0938-range-sum-of-bst) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/arpitaawasthi03/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
